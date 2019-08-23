@@ -9,8 +9,8 @@
         "isDirectory": true,
         "children": [
           "b43e858b-03a9-4e6d-9c8c-fa0552aa1ed5",
-          "18036d30-5a31-472c-bd2c-f8a5ab68ce14",
-          "c4996e97-d90b-4c96-a27d-8a585c14b85e"
+          "c4996e97-d90b-4c96-a27d-8a585c14b85e",
+          "18036d30-5a31-472c-bd2c-f8a5ab68ce14"
         ],
         "isRemovable": false,
         "filePath": "624"
@@ -34,6 +34,17 @@
         },
         "triggers": []
       },
+      "c4996e97-d90b-4c96-a27d-8a585c14b85e": {
+        "id": "c4996e97-d90b-4c96-a27d-8a585c14b85e",
+        "parent": "9e2c1ed2-a375-43d8-84f3-5b7d389fa236",
+        "name": "k.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "624/k.js",
+        "code": ""
+      },
       "18036d30-5a31-472c-bd2c-f8a5ab68ce14": {
         "id": "18036d30-5a31-472c-bd2c-f8a5ab68ce14",
         "parent": "9e2c1ed2-a375-43d8-84f3-5b7d389fa236",
@@ -44,24 +55,13 @@
         "isRemovable": true,
         "filePath": "624/kk.js",
         "code": "//kuku"
-      },
-      "c4996e97-d90b-4c96-a27d-8a585c14b85e": {
-        "id": "c4996e97-d90b-4c96-a27d-8a585c14b85e",
-        "parent": "9e2c1ed2-a375-43d8-84f3-5b7d389fa236",
-        "name": "k.js",
-        "type": "JS_FILE",
-        "isDirectory": false,
-        "children": [],
-        "isRemovable": true,
-        "filePath": "624/k.js",
-        "code": "//test"
       }
     },
     "deletedFiles": [],
     "rootNode": "9e2c1ed2-a375-43d8-84f3-5b7d389fa236",
     "openFiles": [
       "b43e858b-03a9-4e6d-9c8c-fa0552aa1ed5",
-      "18036d30-5a31-472c-bd2c-f8a5ab68ce14"
+      "c4996e97-d90b-4c96-a27d-8a585c14b85e"
     ],
     "currentFileId": "b43e858b-03a9-4e6d-9c8c-fa0552aa1ed5",
     "resources": {},
@@ -90,7 +90,7 @@
     "projectRegion": "us-east-1",
     "platform": "AWS",
     "platformRegions": {},
-    "lastSave": 1566552387746
+    "lastSave": 1566552444859
   },
   "VCS_STATE": {
     "provider": "GitHub",
